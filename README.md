@@ -1,4 +1,4 @@
-# Forschungsseminar---Hello-World
+# Wissenschaftliches Arbeiten---Hello-World
 "Hello World" in python
 
 # Installationsvoraussetzungen
